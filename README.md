@@ -1,4 +1,4 @@
-# verify
+#  [NAKAMOTO BOND](https://Nakamoto.Bond)
 We allow anonymous crypto teams to build trust with their communities without making their identities public.
 # Crypto KYC - Trust As A Service
 Nakamoto Bond was created as a compliance tool to protect IDO and ICO participants from scam and Rugpulls.

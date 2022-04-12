@@ -1,3 +1,4 @@
 # verify
 We allow anonymous crypto teams to build trust with their communities without making their identities public.
+# Crypto KYC - Trust As A Service
 ![](https://github.com/NakamotoBond/verify/blob/main/Verified.jpg)
